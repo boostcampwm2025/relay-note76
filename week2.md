@@ -146,3 +146,41 @@
         
 - **달성 기준**:
     - 슬랙에 프롬프트 템플릿 1회 이상 공유
+
+## 과제 수행 내역
+
+<details>
+  
+  <summary>S037</summary>
+
+  #### 퀘스트: 하루 한 문장, 소통 습관 만들기
+  
+  
+</details>
+
+<details>
+  
+  <summary>J298</summary>
+
+  #### 퀘스트: 하루 한 문장, 소통 습관 만들기
+  
+  
+</details>
+
+<details>
+  
+  <summary>J081</summary>
+
+  #### 퀘스트: 코드 & 라이프 챌린지
+  
+  
+</details>
+
+<details>
+  
+  <summary>J087</summary>
+
+  #### 퀘스트: 코드 & 라이프 챌린지
+  
+  
+</details>
