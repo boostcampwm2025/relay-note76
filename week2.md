@@ -183,7 +183,6 @@ AI에게 “사람들이 부담없이 참여할 수 있는 투표 주제“를 �
 
 #### 퀘스트: 하루 한 문장, 소통 습관 만들기
 
-<img src="https://i.ibb.co/PvPbZDgR/1.png" alt="1" border="0">
 <img src="https://i.ibb.co/hxwQYsbh/11.png" alt="11" border="0">
 
 - gpt를 통해 슬랙에서 사람들과 소통할 주제를 추천받았습니다
