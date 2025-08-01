@@ -191,6 +191,13 @@ AI에게 “사람들이 부담없이 참여할 수 있는 투표 주제“를 �
 
 #### 퀘스트: 코드 & 라이프 챌린지
 
+<img width="623" height="1178" alt="image" src="https://github.com/user-attachments/assets/6388c863-13c8-4d03-8dfd-eaac36d22c84" />
+
+## 미션 수행 후 느낀점
+- 점심먹고나서 가만히 앉아있으면 졸음이 쏟아졌지만, AI에게 추천받은 활동을 수행해보니 덜 졸렸습니다.
+- 실내에서 가볍게 움직이는 것만으로도 큰 도움이 되었습니다.
+
+
 </details>
 
 <details>
