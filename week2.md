@@ -200,7 +200,7 @@
 
 - **Slack 공유 이미지**
 
- <img width="970" height="362" alt="J087_김희원_Slack 공유 스크린샷" src="https://gist.github.com/user-attachments/assets/ed979cf2-eb88-4f33-afc1-4268ef147856" />
+  <img width="970" height="362" alt="J087_김희원_Slack 공유 스크린샷" src="https://github.com/user-attachments/assets/f376bf1d-5605-4ced-8b72-ab5e2a10e976" />
 
 ## 미션 수행 후 느낀점
 
